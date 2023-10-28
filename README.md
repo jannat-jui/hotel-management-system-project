@@ -27,7 +27,6 @@ After Creating Database,
 
 Note: For admin panel, go to URL ” http://localhost/ Hotel/admin/index.php”
 
-For any need Feel free to contact with me(nahidalam13765@gmail.com)
 
 .
 .![1](https://github.com/alamnahid/hotel-management-system/assets/138557372/5f3d3bd8-a9fd-4e6b-b06d-da275e9b7f79)
